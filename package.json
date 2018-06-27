@@ -1,5 +1,5 @@
 {
-  "name": "budget",
+  "name": "jokes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -32,6 +32,7 @@
     "style-loader": "^0.21.0",
     "uglifyjs-webpack-plugin": "^1.2.5",
     "url-loader": "^1.0.1",
+    "uuid": "^3.3.0",
     "webpack": "^4.12.0",
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-cli": "^3.0.8",
@@ -50,7 +51,6 @@
     "react-dom": "^16.4.1",
     "react-redux": "^5.0.7",
     "react-router-dom": "^4.2.2",
-    "redux": "^4.0.0",
-    "uuid": "^3.2.1"
+    "redux": "^4.0.0"
   }
 }
